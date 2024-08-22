@@ -17,7 +17,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
+        <img height="360em" src="https://github.com/AidanSunahara/AidanSunahara/blob/main/java-python-developer.png"/>
      </p>
     </td>
   </tr>
@@ -44,9 +44,9 @@
      <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
      <br>
      <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>
-     <img src="https://img.shields.io/badge/-wireshark-05122A?style=flat&logo=wireshark"/>
+     <img src="https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark"/>
      <br>
-     <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
+     <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>
      <img src="https://img.shields.io/badge/-GoogleColab-05122A?style=flat&logo=GoogleColab"/>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
    </td>
