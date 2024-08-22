@@ -29,8 +29,9 @@
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
      <br>
      <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
+     <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas"/>
      <br>
-     <img src="https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=jupyter"/>
+     <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=r"/>
      <img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=googlecolab"/>
      <img src="https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=tailwind"/>
      <br>
